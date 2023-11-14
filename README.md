@@ -1,3 +1,3 @@
 # Attendance-Prediction
 
-![Attendance-Prediction](`LA clippers`.png)
+![Attendance-Prediction](LA clippers.png)
