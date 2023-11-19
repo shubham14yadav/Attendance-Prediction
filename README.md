@@ -1,7 +1,5 @@
 # Analyzing Sports Event Attendance Using Pandas, SQL, and Data Visualization
 
-![Attendance-Prediction](https://drive.google.com/uc?export=view&id=14dOnGJ-Ol-gmDPVP38tbrcM0z77Wqsv7)
-
 Description:
 This project explores sports event attendance data to uncover insights using Python libraries such as Pandas, pandasql, and visualization tools like Matplotlib and Seaborn. The project involves loading and manipulating sports event data from Excel files, performing SQL-like queries in Python, and visualizing trends in attendance based on various factors like game timing and weather conditions.
 
@@ -37,8 +35,9 @@ Made custom attendance predictions based on specific game conditions and visuali
 Technologies Used: Python, Pandas, pandasql, Matplotlib, Seaborn, BeautifulSoup, Machine Learning (scikit-learn, XGBoost).
 
 ## Project Outcome:
-<br>The project provided detailed insights into factors affecting sports event attendance, showcasing the power of Python and SQL for data analysis and the effectiveness of machine learning in predictive analytics. The visualizations and models developed offer valuable tools for sports event management and marketing strategies.<br>
+<br>The project provided detailed insights into factors affecting sports event attendance, showcasing the power of Python and SQL for data analysis and the effectiveness of machine learning in predictive analytics. The visualizations and models developed offer valuable tools for sports event management and marketing strategies.<br><br>
 
+![Attendance-Prediction](https://drive.google.com/uc?export=view&id=14dOnGJ-Ol-gmDPVP38tbrcM0z77Wqsv7)
 ![Attendance-Prediction](https://drive.google.com/uc?export=view&id=1-yugeXs7ZgWTz5KdYK3fPhJH440kYeBL)
 ![Attendance-Prediction](https://drive.google.com/uc?export=view&id=1DTzbS-U0y1NtZcvriLIfU7G80teEeKj8)
 ![Attendance-Prediction](https://drive.google.com/uc?export=view&id=1DAQWZIBH4CD-VG0VPeXvPnoI9YwZ0NWx)
