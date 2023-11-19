@@ -1,6 +1,6 @@
 # Analyzing Sports Event Attendance Using Pandas, SQL, and Data Visualization
 
-Description:
+Description:<br>
 This project explores sports event attendance data to uncover insights using Python libraries such as Pandas, pandasql, and visualization tools like Matplotlib and Seaborn. The project involves loading and manipulating sports event data from Excel files, performing SQL-like queries in Python, and visualizing trends in attendance based on various factors like game timing and weather conditions.
 
 Key Features and Analysis Performed:
